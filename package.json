@@ -1,0 +1,17 @@
+{
+  "name": "autowalletgenerator.netgenerator",
+  "version": "1.0.0",
+  "description": "Auto WalletGenerator.net Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kessnerch",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "bigi": "^1.4.2",
+    "bitcoinjs-lib": "^3.3.2",
+    "command-line-args": "^5.0.2",
+    "command-line-usage": "^5.0.4"
+  }
+}
